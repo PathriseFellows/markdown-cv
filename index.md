@@ -1,91 +1,71 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Odina Saydahmedova
+Software Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<a href="odinasayid@gmail.com">odinasayid@gmail.com</a>
+| <a href="https://www.linkedin.com/in/odinasaydahmedova/">LinkedIn</a>
+ | <a href="https://github.com/Odinahon">Github</a>
+ </div>
 
 
-## Currently
+## EDUCATION
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+>University of Washington, Seattle — Java Certificate, June 2020 <br />
+>CodingDojo, Seattle — Full Stack Web Developer Apprenticeship, June 2019 <br />
+>Gubkin Russian State University, Moscow, Russia — Masters, Computer Science, 2008 GPA 3.85/4 <br />
+>Gubkin Russian State University, Moscow, Russia — Bachelors, Computer Science, 2006 GPA 3.88/4 <br />
 
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+### PROFESSIONAL EXPERIENCE  
+>Anor Bank 							                                                                                         Tashkent, Uzbekistan <br />
+Software Engineering - Intern | C#, Visual Studio, ELMA API                                                             Apr. 2021- Aug. 2021 
+<ul>
+<li>Create Elma application using C# that displays and runs process of opening bank accounts</li>
+<li>Structured address input string using RegEx producing 15% increase in program running speed</li>
+<li>Integrate unit testing within development process to enhance application robustness and reliability</li>
+</ul>
+ 
+ 
+  
+>Bukhara Oil Refinery Plant	 	 	 	                                                      Bukhara, Uzbekistan <br />
+System Engineer	         Sep. 2012- Oct. 2015 
+<ul>
+  <li>Supported 20-members team in the continued support of automated systems within the plant using HoneyWell Software Systems</li>
+  <li>Implemented a program to find optimal time for reconstruction that helped to  reduce plant’s expenses by 15 %</li>
+  <li>Recommend weekly conference calls with CEO and team lead to raise team productivity and reduce timelines by 30%</li>
+  <li>Served as the first point of contact to help troubleshoot dispatcher’s issues with the system updates and functionality, trained the dispatch team.  </li>
+ </ul>
 
 
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## TECHNICAL PROJECTS  
+> Ecommerce App | Java, SpringBoot, SpringMVC, JPA, H2 |
+<ul>
+  <li>Led 5-member team to develop a mini ecommerce web app that allows users to search, buy products using Spring MVC and Thymeleaf with Bootstrap CSS</li>
+  <li>Configured Spring Beans using best practices in XML and Java, used Spring to persist data into a database, and Spring MVC to show content from the database on a webpage.</li>
+  <li>Built key features such as mapping, cart, and checkout functionalities using Java, H2 Database with JPA and Hibernate</li>
+  <li>Used Spring MVC Test, JUnit and Mockito to test Spring</li>
+</ul>
 
 
 
-<!-- ### Footer
+>Want to Quote App| Python, MongoDB, JavaScript, HTML5/CSS3, jQuery, Bootstrap |
 
-Last updated: May 2013 -->
+<ul>
+  <li>Created full stack web application imitating FACEBOOK social network that displays users quotes, allows other users to leave comments</li>
+  <li>Used Embedding and Linking data pattern to map out entities and their relationships using CRD</li>
+  <li>Used Schema Versioning Design Pattern to support iterative development approach</li>
+  <li>Validated user input using JavaScript and regex while storing data using cache to limit storage needs </li>
+  <li>Application included in to the top 5 rating during boot camp Hackathon</li>
+</ul>
+
+## SKILLS 
+>Programming: Java, C#, C++, Python, JavaScript, MATLAB, Node.js <br />
+>Database: SQL, NoSQL, MongoDB, Amazon AWS, H2, JPA <br />
+>Web: JavaScript, CSS, HTML, jQuery, Bootstrap, AJAX, JSON <br />
+>Applications and other: Spring, XCode, Eclipse, GitHub, Hibernate,  JUnit, Bash, GDB, Mockito, XML <br />
 
 
